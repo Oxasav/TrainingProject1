@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 package com.company;
 
 public class Main {
@@ -7,5 +6,6 @@ public class Main {
     {
 	    // First App
         System.out.println("Hello, World");
+        System.out.println("Train to commit :-)))");
     }
 }
